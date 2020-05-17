@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BiYingXiangMu</string>
+    <string name="title_home">搜索</string>
+    <string name="title_dashboard">心愿单</string>
+    <string name="title_notifications">故事</string>
+    <string name="title_email">收件箱</string>
+    <string name="title_login">登录</string>
+</resources>
